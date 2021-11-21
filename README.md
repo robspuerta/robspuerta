@@ -19,10 +19,10 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   </a>-->
 
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+  <img align="" width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <img align="" width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
   </a>
   
 </p>
