@@ -11,9 +11,9 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
 
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
-  <a href="https://github.com/YuriDevAT/sos-animals">
+  <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
 <!--  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" /> -->
-  <img align="" src="gh repo clone robspuerta/Project-I---Understanding-Banking-Customer-Behavior&theme=tokyonight" />
+  <img align="" src="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git&theme=tokyonight" />
   </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
