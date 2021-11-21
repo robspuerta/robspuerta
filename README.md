@@ -18,4 +18,11 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
   </a>
 
+  <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
+  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+  </a>
+  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  </a>
+  
 </p>
