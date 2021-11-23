@@ -5,6 +5,10 @@
 ### Hi there 👋, I'm Robin Puerta
 I'm an Industrial Engineer and Computer Science Engineer that contributes as a link between the Business and IT Department, analyzing, designing, and developing Process Improvements that balance Company Objectives, Operation Costs, and Customer Experience, using Agile (SCRUM) methodology as a framework.
 
+  <a href="https://www.linkedin.com/in/robin-puerta/">
+  <img align="" width="900" src="https://github.com/robspuerta/robspuerta/blob/main/Business%20process%20analyst%20(1).png" alt="Robin Puerta Business Process Analyst + Product Analyst"/>
+  </a>
+  
 <br />
 <h2 align="center">My favorite projects 💻</h2>
 <br />
