@@ -14,11 +14,11 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
 
   <!-- Foto thumbnail de repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Understanding%20Customer%20Behavior%20patterns.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/1.png" />
   </a>
   <!-- Foto thumbnail de repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboard%20a%20life%20saving%20tool.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/2.png" />
   </a>
   <!-- Link a repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
