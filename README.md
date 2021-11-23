@@ -11,30 +11,24 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
 
 <p align="center">
 
- <!--  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" /> 
-  </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-  </a>-->
 
+  <!-- Foto thumbnail de repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
   <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Understanding%20Customer%20Behavior%20patterns.png" />
   </a>
-   
-  <!-- Prueba de link a repositorio sin foto-->
-  <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-I---Understanding-Banking-Customer-Behavior&theme=tokyonight" /> 
-  </a>
-  
-  
+  <!-- Foto thumbnail de repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
   <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboard%20a%20life%20saving%20tool.png" />
   </a>
-  
+  <!-- Link a repositorio 1-->
+  <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-I---Understanding-Banking-Customer-Behavior&theme=tokyonight" /> 
+  </a>
+  <!-- Link a repositorio 2-->
+  <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-2-Dashboards---A-life-saving-tool&theme=tokyonight" /> 
+  </a>
+   
 </p>
-
 
 <!--  Referencia: https://github.com/YuriDevAT/YuriDevAT/blob/main/README.md -->
