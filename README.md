@@ -18,7 +18,7 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   </a>
   <!-- Foto thumbnail de repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/2.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboards%20Robin%20Puerta%201.png" />
   </a>
   <!-- Link a repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
