@@ -36,7 +36,7 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   </a>
   <!-- Link a repositorio 3-->
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-3-Agile-as-a-Language" /> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-3-Agile-as-a-Language&theme=tokyonight" /> 
   </a>
 
   
