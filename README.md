@@ -20,12 +20,6 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
   <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboards%20Robin%20Puerta%201.png" />
   </a>
-  <!-- Foto thumbnail de repositorio 3-->
-  <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Agile%20as%20a%20Language%20GIthub%20thumbnail.png" />
-  </a>
-  
-  
   <!-- Link a repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-I---Understanding-Banking-Customer-Behavior&theme=tokyonight" /> 
@@ -33,6 +27,13 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   <!-- Link a repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-2-Dashboards---A-life-saving-tool&theme=tokyonight" /> 
+  </a>
+  
+  
+  
+  <!-- Foto thumbnail de repositorio 3-->
+  <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language">
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Agile%20as%20a%20Language%20GIthub%20thumbnail.png" />
   </a>
   <!-- Link a repositorio 3-->
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language"> 
