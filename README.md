@@ -20,14 +20,14 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
   <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboards%20Robin%20Puerta%201.png" />
   </a>
-  <!-- Link a repositorio 1-->
+  <!-- Link a repositorio 1
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-I---Understanding-Banking-Customer-Behavior&theme=tokyonight" /> 
   </a>
-  <!-- Link a repositorio 2-->
+  <!-- Link a repositorio 2
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-2-Dashboards---A-life-saving-tool&theme=tokyonight" /> 
-  </a>
+  </a>-->
   
   
   
@@ -40,14 +40,14 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   <a href="https://github.com/robspuerta/Technologies">
   <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Business%20Analyst's%20Toolkit.png" />
   </a>
-  <!-- Link a repositorio 3-->
+  <!-- Link a repositorio 3
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Project-3-Agile-as-a-Language&theme=tokyonight" /> 
   </a>
-  <!-- Link a repositorio 4-->
+  <!-- Link a repositorio 4
   <a href="https://github.com/robspuerta/Technologies"> 
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=robspuerta&repo=Technologies&theme=tokyonight" /> 
-  </a>
+  </a>-->
 
   
 </p>
