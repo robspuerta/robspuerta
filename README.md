@@ -14,11 +14,11 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
 
   <!-- Foto thumbnail de repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Customer%20patterns.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
   </a>
   <!-- Foto thumbnail de repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Dashboards%20Robin%20Puerta%201.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/2%20Dashboards.png" />
   </a>
   <!-- Link a repositorio 1
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
@@ -34,11 +34,11 @@ I'm an Industrial Engineer and Computer Science Engineer that contributes as a l
   
   <!-- Foto thumbnail de repositorio 3-->
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Agile%20as%20a%20Language%20GIthub%20thumbnail.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/3%20Agile%20as%20a%20language.png" />
   </a>
   <!-- Foto thumbnail de repositorio 4-->
   <a href="https://github.com/robspuerta/Technologies">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/Business%20Analyst's%20Toolkit.png" />
+  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/4%20BA%20toolkit.png" />
   </a>
   <!-- Link a repositorio 3
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language"> 
