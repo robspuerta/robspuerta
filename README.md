@@ -3,7 +3,9 @@
   </a>
   
 ### Hi there 👋, I'm Robin Puerta
-I'm an Industrial Engineer and Computer Science Engineer that contributes as a link between the Business and IT Department, analyzing, designing, and developing Process Improvements that balance Company Objectives, Operation Costs, and Customer Experience, using Agile (SCRUM) methodology as a framework.
+Product Owner / Project Manager at an Edtech company, with experience in Fintech as well. Working remotely with teams in the US, AR, BR, MX, CH, SP, UK, and more.
+
+Thanks to my Computer Science and Industrial Engineering background, I excel in managing strategic projects. I analyze customer needs and business opportunities, align stakeholders to work toward common objectives and lead cross-functional teams in an Agile framework. Additionally, I oversee product backlogs, define MVP requirements, write user stories, and prioritize tasks for the Dev team to deliver valuable solutions.
  
 <br />
 <h2 align="center">My favorite projects 💻</h2>
