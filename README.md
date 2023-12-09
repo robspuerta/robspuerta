@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/robin-puerta/">
-<img align="" width="900" src="https://github.com/robspuerta/robspuerta/blob/main/Business%20process%20analyst%20(1).png" alt="Robin Puerta Business Process Analyst + Product Analyst"/>
+<img align="" width="900" src="https://github.com/robspuerta/robspuerta/blob/main/Robin%20Puerta%20Banner%20pic.png" alt="Robin Puerta Business Process Analyst + Product Analyst"/>
   </a>
   
 ### Hi there 👋, I'm Robin Puerta
