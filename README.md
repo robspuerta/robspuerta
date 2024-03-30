@@ -16,11 +16,11 @@ Thanks to my Computer Science and Industrial Engineering background, I excel in 
 
   <!-- Foto thumbnail de repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
+  <img align="" width="350" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
   </a>
   <!-- Foto thumbnail de repositorio 2-->
   <a href="https://github.com/robspuerta/Project-2-Dashboards---A-life-saving-tool">
-  <img align="" width="400" src="https://github.com/robspuerta/robspuerta/blob/main/2%20Dashboards.png" />
+  <img align="" width="350" src="https://github.com/robspuerta/robspuerta/blob/main/2%20Dashboards.png" />
   </a>
   <!-- Link a repositorio 1
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior"> 
