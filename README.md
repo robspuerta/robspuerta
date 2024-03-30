@@ -34,11 +34,11 @@ Thanks to my Computer Science and Industrial Engineering background, I excel in 
    
   <!-- Foto thumbnail de repositorio 3-->
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language">
-  <img align="" width="50%" src="https://github.com/robspuerta/robspuerta/blob/main/3%20Agile%20as%20a%20language.png" />
+  <img align="" width="380" src="https://github.com/robspuerta/robspuerta/blob/main/3%20Agile%20as%20a%20language.png" />
   </a>
   <!-- Foto thumbnail de repositorio 4-->
   <a href="https://github.com/robspuerta/Technologies">
-  <img align="" width="50%" src="https://github.com/robspuerta/robspuerta/blob/main/4%20BA%20toolkit.png" />
+  <img align="" width="380" src="https://github.com/robspuerta/robspuerta/blob/main/4%20BA%20toolkit.png" />
   </a>
   <!-- Link a repositorio 3
   <a href="https://github.com/robspuerta/Project-3-Agile-as-a-Language"> 
