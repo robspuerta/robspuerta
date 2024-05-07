@@ -6,6 +6,17 @@
 Product Owner / Project Manager at an Edtech company, with experience in Fintech as well. Working remotely with teams in the US, AR, BR, MX, CH, SP, UK, and more.
 
 Thanks to my Computer Science and Industrial Engineering background, I excel in managing strategic projects. I analyze customer needs and business opportunities, align stakeholders to work toward common objectives and lead cross-functional teams in an Agile framework. Additionally, I oversee product backlogs, define MVP requirements, write user stories, and prioritize tasks for the Dev team to deliver valuable solutions.
+
+
+<br />
+<h2 align="center">My side projects 💻</h2>
+<br />
+<!-- Foto thumbnail de repositorio 1-->
+<a href="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/README.md">
+<img align="" width="360" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
+</a>
+
+
  
 <br />
 <h2 align="center">My favorite projects 💻</h2>
