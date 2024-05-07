@@ -9,17 +9,18 @@ Thanks to my Computer Science and Industrial Engineering background, I excel in 
 
 
 <br />
-<h2 align="center">My side projects 💻</h2>
+<h2 align="center">My favorite side projects 💻</h2>
 <br />
+<p align="center">
 <!-- Foto thumbnail de repositorio 1-->
 <a href="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/README.md">
-<img align="" width="360" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
+<img align="" width="360" src="https://github.com/robspuerta/Project6_CoFounder.AI/blob/main/OnlyFounder_thumbnail.png" />
 </a>
 
 
  
 <br />
-<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">My publications 💻</h2>
 <br />
 
 <p align="center">
