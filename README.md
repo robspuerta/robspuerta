@@ -25,7 +25,10 @@ Thanks to my Computer Science and Industrial Engineering background, I excel in 
 
 <p align="center">
 
-
+  <!-- Foto thumbnail de repositorio 1-->
+  <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
+  <img align="" width="360" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
+  </a>
   <!-- Foto thumbnail de repositorio 1-->
   <a href="https://github.com/robspuerta/Project-I---Understanding-Banking-Customer-Behavior.git">
   <img align="" width="360" src="https://github.com/robspuerta/robspuerta/blob/main/1%20Customer%20patterns.png" />
